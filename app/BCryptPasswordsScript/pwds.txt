@@ -1,0 +1,8 @@
+admin1: $2y$10$HJRhGWSGOCsysPWy3scgpeYCuAXR9wPrxJ0EgZHJ2S8v3VNe65WZ2
+admin2: $2y$10$WhP55jTiO/2ZbdHVyn17CefOYCQVS7HMPMZzGYqzuGAzqNWENAmK6
+user1: $2y$10$8ey/hzWDr8gDzky5hGCn7.oo.doYtRxxQpYRtEqCHPYqjNX1bos5y
+user2: $2y$10$mZXquESigXSn.MLN7iP/yeLLQW4NIJPURE6dVrMrpigggoVSk5yWC
+user3: $2y$10$rjmZX5dyp47GGMdYv532HesB7EWkEqXRbbywIpOItSNi3i28Og1Y6
+$2y$10$eB9r.VTJJw6Gl9xlzYzNduGwfYFe2czCk4R4ogqXI3hcMofJq6wY6
+$2y$10$LZ4cdmsIOhi53Jhdaxca1uDgrVUrpDZxK02beEo3kbSC843CBhAzG
+admin1: $2y$11$eHAZxV08wtVwki4GjoM11Od1Jqv/jEACP/gw9an28J47qrx4e8s/S

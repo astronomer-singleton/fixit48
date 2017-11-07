@@ -1,0 +1,2 @@
+insert into user(email) VALUES('admin1');
+insert into user(email) VALUES('user1');

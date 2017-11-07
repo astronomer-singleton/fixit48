@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>{% block title %}Welcome!{% endblock %}</title>
+        {% block stylesheets %}{% endblock %}
+        <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
+    </head>
+    <body>
+        {% if is_granted('ROLE_USER') %}
+            <div align="right">{{ username }}<a href="{{ path('security_logout') }}">Выйти</a></div>
+        {% else %}
+            <div align="right"><a href="{{ path('security_login') }}">Вход</a></div>
+        {% endif %}
+
+        {% block body %}{% endblock %}
+        {% block javascripts %}{% endblock %}
+    </body>
+</html>
